@@ -1,0 +1,10 @@
+﻿baseURL = "https://mohamedmagdy331.github.io/dfir/"
+title = "Mohamed's Infosec Notes"
+theme = "hyde"
+locale = "en-us"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  description = "SOC, DFIR, Network Security, Home Lab"
